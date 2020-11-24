@@ -18,6 +18,7 @@ First I intended to use it for myself, but then I thought maybe its better to sh
   <li><a href="./Templates/Graphs.md">Graphs</a></li>
   <li><a href="./Templates/DynamicProgramming.md">Dynamic Programming</a></li>
   <li><a href="./Templates/BinarySearch.md">Backtracking</a></li>
+  <li><a href="./Templates/Tries.md">Tries</a></li>
 <ul>
 
 <h3>How to use this template?</h3>
