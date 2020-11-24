@@ -19,14 +19,15 @@ First I intended to use it for myself, but then I thought maybe its better to sh
   <li><a href="./Templates/DynamicProgramming.md">Dynamic Programming</a></li>
   <li><a href="./Templates/BinarySearch.md">Backtracking</a></li>
   <li><a href="./Templates/Tries.md">Tries</a></li>
-<ul>
+</ul>
 
+  
 <h3>How to use this template?</h3>
 <ol>
  <li>If you will have interviews soon, and plan to review data structure & algorithm. You can review by these summary, and improve practical skills by typical examples. </li> 
  <li>If you want to study algorithm by practice, here you can understand the key point in templates, and practice the examples from easy to hard, to understand it deeper.</li>
  <li>If you are a LeetCoder, you want to focus on your weak topics, and have no idea to which problems to solve, here is well classified and provides the most typical examples.     Or,you are too tired to find a fastest and elegant answer in discussion, here can save your time.</li> 
-  </ol>
+ </ol>
 
 <h3>Special Thanks </h3>
 <p>Thanks to all good problems from LeetCode.
