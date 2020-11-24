@@ -1,5 +1,11 @@
 <h3>Arrays</h3>
 
+<h3>Binary Search</h3>
+  <ol>
+    <li>https://leetcode.com/problems/binary-search/discuss/205763/Share-Three-Common-Templates-For-Binary-Search</li>
+    <li>https://leetcode.com/discuss/general-discussion/618920/easy-templates-for-binary-search-for-interview</li>
+  </ol>
+
 <h3>Sliding Window</h3>
   <ol>
     <li>https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions</li>
